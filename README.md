@@ -29,3 +29,11 @@ Nos gustaría en un futuro lograr predecir (incluyendo más variables de informa
 
 (4) ¿Qué elementos representativos tomaste en cuenta, esto es cuáles fueron tus variables explicativas y cuál fue tu variable responsiva?
 Nuestra variables explicativas para la resolución de nuestro caso fueron el promedio general de las variables dentro del ranking (Overall), calidad ambiental con la que cuenta el país (Planet), calidad economica del pais (Profit) y la calidad de vida (People). Mientras que nuestra variable responsiva fue el numero de habitantes por país
+
+##Conclusiones
+Ariadna: 
+Al realizar este proyecto nos dimos cuenta de que una base de datos simple que no nos brinda una gran cantidad de información puede convertirse en una base de datos que nos arroje un modelo predictivo, nos enseñe relación entre las variables y lo más impoprtante, nos permita conocer y analizar información útil para nosotras y para otras personas interesadas en temas como sostenibilidad, economía de un país o calidad de vida. 
+Convertimos un ranking en un modelo que puede tener usos de muchos tipos, como una consulta personal, hasta un senso poblacional o un análisis económico de un país, estadísticas respecto a efectividad de los programas ecológicos entre muchos otros. 
+
+Aura:
+Con el desarrollo de este proyecto pude ver la aplicación real de la probabilidad aplicada a datos, de esta ultima etapa pudimos sacar primero un promedio del ranking general de los pais en los 4 indicadores que contaba, donde pudimos ver que el pais con mejor puntaje dentro de la categoria de relación con el planeta, energias renovables es Suecia. Con la palicación de la regresión lineal podemos obser que si tomamos en cuenta todos los factores el modelo cuenta con una efectividad del 62%. Contando con una pendiente positiva, ademas podemos observar que a mayor población es mas dificil mantener un buen lugar dentro del ranking, por lo que es bastante probable encontrarse dentro de los ultimos lugares como es el caso de China que cuenta con la peor puntación en el aspecto calidad de vida de sus habitantes.
